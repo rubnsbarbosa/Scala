@@ -1,0 +1,14 @@
+# dotenv
+.env
+
+# virtualenv
+venv/
+
+# Rope project settings
+.ropeproject
+.idea
+.DS_Store
+
+# sbt specific
+target/
+project/target
