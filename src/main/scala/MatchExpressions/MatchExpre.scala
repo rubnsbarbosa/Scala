@@ -13,7 +13,7 @@ object MatchExpre {
 
       case _ => println("default");
     }
-    
+
     val x = 7;
     x match {
       case 1 | 3 | 5 | 7 | 9  => println("odd");
