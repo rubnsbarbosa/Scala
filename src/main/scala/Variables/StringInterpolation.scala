@@ -11,7 +11,7 @@ object StringInterpolation {
     println(f"$name%s in $year%d.")
 
     println(s"Hello \nScala")
-    //println(raw"Hello \nScala")
+    println(raw"Hello \nScala")
 
   }
 
